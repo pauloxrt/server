@@ -1,4 +1,4 @@
-Topic;Question;Answer
+Tema;Pregunta;Respuesta
 Cloud;What is cloud native?;Cloud native refers to an approach where applications are built and deployed using cloud technologies, such as containers and microservices, and designed to be scalable, resilient, and flexible.
 Cloud;What are the benefits of cloud computing?;Cloud computing offers benefits like scalability, cost-efficiency, flexibility, and accessibility, allowing organizations to easily deploy and manage applications and services.
 Cloud;What is containerization?;Containerization is a method of running applications in isolated environments called containers. It provides a lightweight, portable, and consistent runtime environment for applications.
