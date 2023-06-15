@@ -1,31 +1,16 @@
-Tema;Pregunta;Respuesta
-Ciencia;1.- The handling, escalation, and decision making when vetting flags or when concerns are raised, should be managed and documented in a consistent and streamlined manner throughout the vetting process);Yes
-Ciencia;1.- The handling, escalation, and decision making when vetting flags or when concerns are raised, should be managed and documented in a consistent and streamlined manner throughout the vetting process);Yes
-Ciencia;1.- The handling, escalation, and decision making when vetting flags or when concerns are raised, should be managed and documented in a consistent and streamlined manner throughout the vetting process);Yes
-Ciencia;10.- As manager how do you drive ethics and compliance in your team/ unit;foster speak up, conucting integrity conversations, drive awareness, recognize and reward speak up culture
-Ciencia;10.- As manager how do you drive ethics and compliance in your team/ unit;foster speak up, conucting integrity conversations, drive awareness, recognize and reward speak up culture
-Ciencia;10.- As manager how do you drive ethics and compliance in your team/ unit;foster speak up, conucting integrity conversations, drive awareness, recognize and reward speak up culture
-Ciencia;4.- Are Line Managers required to support the gatekeeper functions in exercising their GK roles and implement appropiate consequence management?;Yes
-Ciencia;4.- Are Line Managers required to support the gatekeeper functions in exercising their GK roles and implement appropiate consequence management?;Yes
-Ciencia;4.- Are Line Managers required to support the gatekeeper functions in exercising their GK roles and implement appropiate consequence management?;Yes
-Ciencia;7.- Gifts entretainment and hospitality purchases can be made via which of the following channels?;ericsson buyer, virtual card, concur
-Ciencia;7.- Gifts entretainment and hospitality purchases can be made via which of the following channels?;ericsson buyer, virtual card, concur
-Ciencia;7.- Gifts entretainment and hospitality purchases can be made via which of the following channels?;ericsson buyer, virtual card, concur
-Cultura Popular;2.- The executive and high risk vetting processes should be consistently applied in non recruiting scenarios in the business (Such as re organizations, promotions);TRUE
-Cultura Popular;2.- The executive and high risk vetting processes should be consistently applied in non recruiting scenarios in the business (Such as re organizations, promotions);TRUE
-Cultura Popular;2.- The executive and high risk vetting processes should be consistently applied in non recruiting scenarios in the business (Such as re organizations, promotions);TRUE
-Cultura Popular;5.- Gatekeeper function and leaders to empowers employees to enable what?;review transactions, identify, report or handle red flags, speak up, reject process deviations
-Cultura Popular;5.- Gatekeeper function and leaders to empowers employees to enable what?;review transactions, identify, report or handle red flags, speak up, reject process deviations
-Cultura Popular;5.- Gatekeeper function and leaders to empowers employees to enable what?;review transactions, identify, report or handle red flags, speak up, reject process deviations
-Cultura Popular;8.- All gifts entretainment and hospitality benefits requiring pre approval are approved through prior the purchase authorization in all ericsson approved buying channel;Ethics and compliance portal
-Cultura Popular;8.- All gifts entretainment and hospitality benefits requiring pre approval are approved through prior the purchase authorization in all ericsson approved buying channel;Ethics and compliance portal
-Cultura Popular;8.- All gifts entretainment and hospitality benefits requiring pre approval are approved through prior the purchase authorization in all ericsson approved buying channel;Ethics and compliance portal
-Hystory;3.- Are you aware of generic Line Manager Descritpion;Yes
-Historia;3.- Are you aware of generic Line Manager Descritpion;Yes
-Historia;3.- Are you aware of generic Line Manager Descritpion;Yes
-Historia;6.- Who are referred as datekeepers in Empowering GK DAG;Individuals acting as the first line of defense agaainst misconduct and who are typically in charge of imploementing the different controls in an organization
-Historia;6.- Who are referred as datekeepers in Empowering GK DAG;Individuals acting as the first line of defense agaainst misconduct and who are typically in charge of imploementing the different controls in an organization
-Historia;6.- Who are referred as datekeepers in Empowering GK DAG;Individuals acting as the first line of defense agaainst misconduct and who are typically in charge of imploementing the different controls in an organization
-Historia;9.- All benefits involving a public official regardless of value must be pre approved by the compliance office through the ethics and compliance portal;TRUE
-Historia;9.- All benefits involving a public official regardless of value must be pre approved by the compliance office through the ethics and compliance portal;TRUE
-Historia;9.- All benefits involving a public official regardless of value must be pre approved by the compliance office through the ethics and compliance portal;TRUE
+Topic;Question;Answer
+Cloud;What is cloud native?;Cloud native refers to an approach where applications are built and deployed using cloud technologies, such as containers and microservices, and designed to be scalable, resilient, and flexible.
+Cloud;What are the benefits of cloud computing?;Cloud computing offers benefits like scalability, cost-efficiency, flexibility, and accessibility, allowing organizations to easily deploy and manage applications and services.
+Cloud;What is containerization?;Containerization is a method of running applications in isolated environments called containers. It provides a lightweight, portable, and consistent runtime environment for applications.
+Cloud;What is orchestration in cloud computing?;Orchestration in cloud computing refers to the automated management and coordination of multiple containers or services, including provisioning, scaling, and deployment, to ensure the desired application state.
+Cloud;What are some popular cloud service providers?;Some popular cloud service providers include Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and IBM Cloud.
+RAN;What is Cloud RAN?;Cloud RAN (Radio Access Network) is an architecture that virtualizes and centralizes baseband processing functions of cellular networks, enabling more flexible and efficient deployment and management.
+RAN;What is the split architecture in Cloud RAN?;The split architecture in Cloud RAN separates the baseband processing functions into centralized units (CU) and distributed units (DU) to improve scalability, resource allocation, and network performance.
+RAN;What are the benefits of Cloud RAN?;Cloud RAN offers benefits such as increased network capacity, lower operational costs, improved energy efficiency, and easier deployment and management of network functions.
+RAN;What are the key considerations for Cloud RAN security?;Key considerations for Cloud RAN security include protecting the virtualized infrastructure, securing data transmission, implementing access controls, and addressing potential vulnerabilities in the network.
+RAN;What is Cloud RAN lifecycle management?;Cloud RAN lifecycle management involves tasks such as deployment, configuration, monitoring, optimization, and maintenance of Cloud RAN infrastructure and its components.
+Containers/Orchestration;What is the difference between containers and virtual machines?;Containers are lightweight, isolated environments that share the host operating system, while virtual machines are complete, emulated computer systems with their own operating systems.
+Containers/Orchestration;What is Docker?;Docker is an open-source platform that enables containerization and provides tools for building, distributing, and running containers.
+Containers/Orchestration;What is Kubernetes?;Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications.
+Containers/Orchestration;What is a microservice architecture?;Microservice architecture is an approach where an application is built as a collection of small, loosely coupled services that can be developed, deployed, and scaled independently.
+Containers/Orchestration;What is service discovery in container orchestration?;Service discovery in container orchestration refers to the mechanism that allows containers or services to locate and communicate with each other within a cluster, enabling seamless connectivity and load balancing.
